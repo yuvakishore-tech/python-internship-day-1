@@ -1,23 +1,18 @@
 # python-internship-day-1
 Python Developer Internship – Task 1
 
-Name: Your Name
+Name:yuva kishore
 Role: Python Developer Intern
 
-TASK TITLE:
-
-Python Environment Setup & First Script
-
+TASK TITLE: Python Environment Setup & First Script
 
 TOOLS USED:
-
 1. Python (Official CPython)
 2. Visual Studio Code
 3. Python Extension
 4. Terminal / Command Prompt
 
-TASK DESCRIPTION
-
+TASK DESCRIPTION:
 In this task, I performed the following steps:
 
 1. Downloaded and installed Python from the official website.
